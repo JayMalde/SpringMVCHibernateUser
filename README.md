@@ -11,5 +11,4 @@ A simple web application created using Spring MVC Hibernate Maven that performs 
 ## Update A User
 ![Update User](Screenshots/update_user.png)
 
-## DAO
-![DAO](Screenshots/dao.png)
+
